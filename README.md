@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zeev G
-- 👀 I’m interested in many things in programming problems, security, art and latest developments ...
-- 🌱 I’m currently learning a lot !...
-- 💞️ and I think these new emojies in Github are Wicked !
+- 👀 Interested in problem solving, security, arts and pets !
+- 🌱 
+- 💞️ 
 - 📫 zeevgoshen@gmail.com
 
 <!---
